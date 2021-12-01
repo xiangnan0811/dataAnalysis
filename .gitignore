@@ -117,3 +117,7 @@ dmypy.json
 # idea cache
 .idea
 .vscode
+
+# other files
+借款数据.xlsx
+borrow_data_80384.csv
